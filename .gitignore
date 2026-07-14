@@ -1,0 +1,11 @@
+# Byte-compiled / virtual env
+__pycache__/
+venv/
+.env
+.env.*
+
+# Python packaging
+*.egg-info/
+
+# VS Code
+.vscode/
